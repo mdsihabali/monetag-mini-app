@@ -1,0 +1,23 @@
+{
+  "name": "monetag-mini-app",
+  "version": "1.0.0",
+  "description": "A Telegram mini-app to show AdsGram ads and reward users after ad views.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["telegram", "mini-app", "ads", "adsgram", "react"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
